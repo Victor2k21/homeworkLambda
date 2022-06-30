@@ -1,7 +1,5 @@
 package homeworkLambda;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Comparator;
 import java.util.Objects;
 import java.util.function.*;
